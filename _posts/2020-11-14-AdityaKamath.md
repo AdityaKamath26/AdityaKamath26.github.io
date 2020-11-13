@@ -1,6 +1,7 @@
 ---
 title: "My latest version of resume"
 date: 2020-11-14
+permalink: /resume/
 tags: [resume]
 header:
   image: "/images/zakim.jpg"
