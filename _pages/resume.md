@@ -1,5 +1,5 @@
 ---
-title: "Aditya-Kamath_Resume (latest 2020-11-14)"
+title: "Resume (latest 2020-11-14)"
 permalink: /resume/
 header:
   image: "/images/zakim.jpg"
