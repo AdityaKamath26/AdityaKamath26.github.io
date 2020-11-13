@@ -7,4 +7,4 @@ header:
 excerpt: "resume"
 mathjax: "true"
 ---
-[link](https://github.com/AdityaKamath26/AdityaKamath26.github.io/_posts/AdityaKamath_Resume.docx)?
+[link for resume](https://github.com/AdityaKamath26/AdityaKamath26.github.io/_posts/AdityaKamath_Resume.docx)
