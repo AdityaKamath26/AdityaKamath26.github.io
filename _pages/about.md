@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/Bg (3).jpg"
 ---
 
 I'm an aspiring data analyst who excels at data cleaning, data manipulation, exploratory analysis, data visualizations etc. 
