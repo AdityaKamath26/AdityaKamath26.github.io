@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Data Analytics Projects"
     url: /data-analytics/
-  - title: "My Resume1"
+  - title: "My Resume"
     url: /resume/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
