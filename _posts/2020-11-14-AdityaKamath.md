@@ -8,6 +8,7 @@ header:
 excerpt: "resume"
 mathjax: "true"
 ---
-If you came to this page, you are probably looking for my resume. The link to get access to my resume is given below.
+If you came to this page, you are probably looking for my resume. 
+The link to get access to my resume is given below.
 
 [link for resume](https://github.com/AdityaKamath26/AdityaKamath26.github.io/tree/master/Resumes)
